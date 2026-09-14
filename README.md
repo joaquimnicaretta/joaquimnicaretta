@@ -2,29 +2,28 @@
 - 🌱 Aluno de 2 semestre de Ciência da Computação da PUCPR
 - 👾 Amante de jogos
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" /><br />
+      Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" /><br />
+      JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" /><br />
+      HTML5
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" /><br />
+      CSS3
+    </td>
+  </tr>
+</table>
 
 
-<div align="center" style="display:flex; flex-direction:row; justify-content:center; align-items:flex-start;">
-  <div style="display:flex; flex-direction:column; align-items:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" />
-    <p>Python</p>
-  </div>
-
-  <div style="display:flex; flex-direction:column; align-items:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
-    <p>JavaScript</p>
-  </div>
-
-  <div style="display:flex; flex-direction:column; align-items:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" />
-    <p>HTML5</p>
-  </div>
-
-  <div style="display:flex; flex-direction:column; align-items:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" />
-    <p>CSS3</p>
-  </div>
-</div>
 
 
 
