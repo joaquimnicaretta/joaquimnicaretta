@@ -1,4 +1,4 @@
-## Olá eu sou o Joaquim Pedro Nicareta Bernardes
+## Olá eu sou o Joaquim Pedro Nicareta Bernardes👋
 - 🌱 Aluno de 2 semestre de Ciência da Computação da PUCPR
 - 👾 Amante de jogos
 <!--
