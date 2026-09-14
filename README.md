@@ -1,24 +1,24 @@
 ## Olá eu sou o Joaquim Pedro Nicareta Bernardes👋
 - 🌱 Aluno de 2 semestre de Ciência da Computação da PUCPR
-- 👾 Amante de jogos
 
-<table align="center">
+
+<table align="center" cellspacing="0" cellpadding="4">
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" /><br />
-      Python
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br />
+      <sub>Python</sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" /><br />
-      JavaScript
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br />
+      <sub>JavaScript</sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" /><br />
-      HTML5
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /><br />
+      <sub>HTML5</sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" /><br />
-      CSS3
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /><br />
+      <sub>CSS3</sub>
     </td>
   </tr>
 </table>
